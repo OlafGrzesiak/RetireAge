@@ -7,9 +7,7 @@ namespace retireAge
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Type your name:");
-            string userName = Console.ReadLine();
-
+            
             Console.WriteLine("Type your age:");
             int userAge = int.Parse(Console.ReadLine());
 
