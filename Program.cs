@@ -7,9 +7,6 @@ namespace retireAge
     {
         static void Main(string[] args)
         {
-            
-            Console.WriteLine("Type your age:");
-            int userAge = int.Parse(Console.ReadLine());
 
             Console.WriteLine("Whats your gender? Type m or f");
             string userGender = Console.ReadLine();
